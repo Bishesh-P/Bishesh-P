@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have done Bachelors in Computer Engineering<br>I have done projects related to data analyst<br>I am currently learning Data Science and also done projects<br>
+
 
 
 ## 🌐 Socials:
